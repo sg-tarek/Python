@@ -4,8 +4,7 @@ In this repository I will try to group all the different analysis that I have do
 
 <h3> Data sets </h3>
 
-<body>
-<h4 style="color:blue;"> Generate fake trump tweets </h4>
+<h4> Generate fake trump tweets </h4>
 
 By using the power of transformers, in this case a GPT-2 transformer, I show how to analyze trump tweets and generate [fake] tweets. The power of transformers is astonishing and the boundaries are being pushed every year. Especially now with the lunch of GPT-3 in 2020 which have shown remarkable results.
 
@@ -15,4 +14,3 @@ Amazon product reviews have been used for business analysis in multiple ways alr
 
 Feel free to propose changes!
 
-</body>
