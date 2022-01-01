@@ -4,9 +4,6 @@ In this repository I will try to group all the different analysis that I have do
 
 <h3> Data sets </h3>
 
-<h4> Screening Tool </h4>
-Since 2015, the Danish Agency for Labour Market and Recruitment (STAR) has used a profile clarification tool on job seekers in order to help the unemployed return to the labor market. The tool assesses the citizen’s risk of long-term unemployment. I present how STAR can remove potential discriminatory features by introducing a Random Forest model where origin does not have significant importance. The recommendation to STAR is based on an analysis of a range of models, all which can be found in the data set.
-
 <h4> Generate fake trump tweets </h4>
 
 By using the power of transformers, in this case a GPT-2 transformer, I show how to analyze trump tweets and generate [fake] tweets. The power of transformers is astonishing and the boundaries are being pushed every year. Especially now with the lunch of GPT-3 in 2020 which have shown remarkable results.
