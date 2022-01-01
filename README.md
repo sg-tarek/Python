@@ -16,7 +16,4 @@ I use the same amazon reviews that I mention above to do some topic modeling. I 
 <h3> Tournament </h3>
 Assuming we have a CSV file with team names and ratings, the program will simulate a thousand tournaments between the teams and calculates the chance of winning for each team. Each teams and its rating is loaded into a list (list of dictionaries). Afterwards, we simulate a tournament and each time a team wins a count is upated. Based on the overall number of tournaments the probabilities are calculated.
 
-<h3> DNA </h3>
-A python script that can identify someone from a database, based on their DNA sequence. The script must be called with two additional command line arguments; a csv database containing the number of times that particular sequences of characters repeat in a list of people’s DNA sequences, and a DNA sequence .txt file that we will be analysing and assigning an owner to based on the database in the first argument.
-
 Feel free to propose changes!
